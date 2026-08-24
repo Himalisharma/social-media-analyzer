@@ -1,6 +1,6 @@
-# Margin
+# social-media-analyzer
 
-Margin is a fully client-side social media content analyzer. Upload a post as a PDF or an image, and Margin extracts the text, runs it through a rule-based engagement analysis, and marks it up like an editor reviewing a manuscript — underlines, wavy lines, and highlighter boxes right on the text, with margin notes on hover.
+This is a fully client-side social media content analyzer. Upload a post as a PDF or an image, and Margin extracts the text, runs it through a rule-based engagement analysis, and marks it up like an editor reviewing a manuscript — underlines, wavy lines, and highlighter boxes right on the text, with margin notes on hover.
 
 Nothing leaves the browser. There's no backend, no API key, and no rate limit — PDF parsing, OCR, and scoring all run client-side.
 
